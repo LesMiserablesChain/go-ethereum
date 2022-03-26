@@ -15,7 +15,9 @@
 // along with go-ethereum. If not, see <http://www.gnu.org/licenses/>.
 
 // geth is the official command-line client for Ethereum.
-//levy源码分析
+
+//源码分析-中文注释版
+//author:@levy
 package main
 
 import (
